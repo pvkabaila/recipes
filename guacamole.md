@@ -3,4 +3,3 @@
 -lemon
 -salt
 # Instructions
-- throw away the avocado
